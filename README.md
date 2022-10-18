@@ -1,21 +1,18 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
 <h1 align="center">Hi There 👋, I'm Muhammad Saad Kashif!</h1>
-<h3 align="center">A passionate coder from Pakistan</h3>
+<h3 align="center">"A passionate coder from Pakistan"</h3>
 <img align="right" alt="Coding" width="400" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif"
-<br> <br>
 
 
+- 🌱 I’m currently learning: **Flutter and Web Developer**
 
-- 🌱 I’m currently learning **Flutter and Web Developer**
+- 👨‍💻 All of my projects are available at: [https://github.com/code-with-saad](https://github.com/code-with-saad)
 
-- 👨‍💻 All of my projects are available at [https://github.com/code-with-saad](https://github.com/code-with-saad)
+- 💬 Ask me about: **HTML | CSS | Dart**
 
-- 💬 Ask me about **HTML | CSS | Dart**
+- 📫 How to reach me: **saadkashif770@gmail.com**
 
-- 📫 How to reach me **saadkashif770@gmail.com**
-
-- ⚡ Fun fact **I am Currently a Student**
+- ⚡ Fun fact: **"I am Currently a Student"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
