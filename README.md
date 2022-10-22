@@ -1,35 +1,57 @@
+<h2> Hi There
+    <img src="https://github.com/codewithowais/codewithowais/blob/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="75" />
+  </h2><h3> I'm Muhammad Saad Kashif!
+</h3>
+<div>
+ <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%"  loop=infinite></div>
 
-<h1 align="center">Hi There 👋, I'm Muhammad Saad Kashif!</h1>
-<h3 align="center">"A passionate coder from Pakistan"</h3>
-<img align="center" alt="Coding" width="450" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif"
+
+### Contact
+
+Reach out to me directly through:
+
+<a href="https://www.facebook.com/Itxsaad495/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/messages/t/Itxsaad495/" target="_blank">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+</a>
 
 
 
- 🌱 I’m currently learning: **Flutter and Web Development**
+<a href="mailto:saadkashif770@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
- 👨‍💻 All of my projects are available at: [https://github.com/code-with-saad](https://github.com/code-with-saad)
 
- 💬 Ask me about: **HTML | CSS | Dart**
+### Tech Stack
 
- 📫 How to reach me: **saadkashif770@gmail.com**
+Here's my tech stack I'm currently used to and prefer:
 
- ⚡ Fun fact: **"I am Currently a Student"**
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/itxsaad495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itxsaad495" height="30" width="40" /></a>
-<a href="https://instagram.com/itx__saad495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx__saad495" height="30" width="40" /></a>
-</p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-saad&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-saad" /></p>
+    
+## ❤ Views and Followers
+    
+<a href="https://github.com/code-with-saad/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=code-with-saad">
+</a>
+<a href="https://github.com/code-with-saad?tab=followers"><img src="https://img.shields.io/github/followers/code-with-saad?label=Followers&style=social" alt="GitHub Badge"></a> 
+    
+    
+### Status
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-saad" alt="code-with-saad" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-saad&show_icons=true&locale=en&layout=compact" alt="code-with-saad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-saad&show_icons=true&locale=en" alt="code-with-saad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-saad&" alt="code-with-saad" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-saad&theme=dark&count_private=true&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-saad&layout=compact&theme=dark&langs_count=50" />
