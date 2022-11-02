@@ -3,8 +3,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="75" />
-  </h2><h3> I'm Muhammad Saad Kashif!
-</h3>
+  </h2><h1 style="text-align: center; font-size: 25px;"> I'm Muhammad Saad Kashif!
+</h1>
 <div>
  <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%"  loop=infinite></div>
 
