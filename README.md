@@ -8,13 +8,13 @@
 <div>
  <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%"  loop=infinite></div>
  
- 🌱 I’m currently learning: **Flutter App Developement**
+ 🌱 I’m currently learning: **Server Side Backend Development Using Python**
 
  👨‍💻 All of my projects are available at: [https://github.com/code-with-saad](https://github.com/code-with-saad)
 
- 💬 Ask me about: **HTML | CSS | Bootstrap | JavaScript | Dart | Flutter | FireBase | Illustrator | Photoshop | Xd **
+ 💬 Ask me about: **HTML | CSS | Bootstrap | JavaScript | Dart | Flutter | FireBase | Python | Django Rest Framework | Django Api Creation | Illustrator | Photoshop | Xd **
 
- 📫 How to reach me: **saadkashif770@gmail.com**
+ 📫 How to reach me: **Gmail1: saadkashif770@gmail.com, Gmail2: funterboy495@gmail.com, Phone Number: 03353132747**
 
  ⚡ Fun fact: **"I am Currently a Student"**
 
@@ -29,10 +29,10 @@ Reach out to me directly through:
 <a href="https://www.linkedin.com/in/saad-kashif-767052247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://www.facebook.com/codewithsaad495/" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100091482305935" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/messages/t/codewithsaad495/" target="_blank">
+<a href="https://www.facebook.com/messages/t/profile.php?id=100091482305935/" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
 </a>
 <a href="mailto:saadkashif770@gmail.com" target="_blank">
