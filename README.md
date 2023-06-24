@@ -8,7 +8,7 @@
 <div>
  <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%"  loop=infinite></div>
  
- 🌱 I’m currently learning: **Server Side Backend Development Using Python**
+ 🌱 I’m currently learning: **"Server Side Backend Development Using Python"**
 
  👨‍💻 All of my projects are available at: [https://github.com/code-with-saad](https://github.com/code-with-saad)
 
