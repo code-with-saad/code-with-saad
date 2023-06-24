@@ -46,7 +46,7 @@ Here's my tech stack I'm currently used to and prefer:
 
 <div>
     
-  <p align="left"> <a href="https://wa.me/923430276090/"  target="_blank" > <img
+  <p align="left"> <a href="https://wa.me/923353132747/"  target="_blank" > <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
     alt="android" width="80" height="80" /> </a> <a href="https://wa.me/923430276090/" target="_blank"
 > <img
@@ -56,11 +56,11 @@ Here's my tech stack I'm currently used to and prefer:
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     alt="css3" width="80" height="80" /> </a> <a href="https://wa.me/923430276090/"  target="_blank" > <img
     src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="80" height="80" /> </a>
-<a href="https://www.facebook.com/muneeb.shahid.98499/" target="_blank" > <img
+<a href="https://www.facebook.com/profile.php?id=100091482305935/" target="_blank" > <img
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80" />
-</a> <a href="https://www.facebook.com/muneeb.shahid.98499/" target="_blank" > <img
+</a> <a href="https://www.facebook.com/profile.php?id=100091482305935/" target="_blank" > <img
     src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80" />
-</a> <a href="https://wa.me/923430276090/" target="_blank" > <img
+</a> <a href="https://wa.me/923353132747/" target="_blank" > <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
     alt="html5" width="80" height="80" /> </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="75" height="75"/> </a> 
