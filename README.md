@@ -1,4 +1,7 @@
-<h1 align="center">Hi There 👋, I'm Muhammad Saad!</h1>
+<h1 align="center">Hi There <img src="https://github.com/codewithowais/codewithowais/blob/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="75" />, I'm Muhammad Saad!</h1>
 <h3 align="center">"A passionate coder from Karachi"</h3>
 <img align="center" alt="Coding" width="550" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
