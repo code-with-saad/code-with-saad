@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Muhammad Saad!</h1>
 <h3 align="center">"A passionate coder from Karachi"</h3>
-<img align="center" alt="Coding" width="450" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img align="center" alt="Coding" width="600" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
  
  🌱 I’m currently learning: **"Server Side Backend Development Using Python"**
