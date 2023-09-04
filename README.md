@@ -1,12 +1,7 @@
-<h2 align="center"> Hi There
-    <img src="https://github.com/codewithowais/codewithowais/blob/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="75" />
-  </h2><h1 align="center" style="font-size: 30px;"> I'm Muhammad Saad Kashif!
-</h1>
-<div>
- <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%"  loop=infinite></div>
+<h1 align="center">Hi There 👋, I'm Muhammad Saad!</h1>
+<h3 align="center">"A passionate coder from Karachi"</h3>
+<img align="center" alt="Coding" width="450" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+
  
  🌱 I’m currently learning: **"Server Side Backend Development Using Python"**
 
@@ -14,7 +9,7 @@
 
  💬 Ask me about: **HTML | CSS | Bootstrap | JavaScript | Dart | Flutter | FireBase | Python | Django Rest Framework | Django Api Creation | Illustrator | Photoshop | Xd **
 
- 📫 How to reach me: **Gmail1: saadkashif770@gmail.com, Gmail2: funterboy495@gmail.com, Phone Number: 03353132747**
+ 📫 How to reach me: **Gmail1: saadkashif770@gmail.com, Gmail2: funterboy495@gmail.com, PhoneNumber: 03353132747**
 
  ⚡ Fun fact: **"I am Currently a Student"**
 
