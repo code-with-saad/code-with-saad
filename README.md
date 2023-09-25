@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="75" />, I'm Muhammad Saad!</h1>
-<h3 align="center">"A passionate coder from Karachi"</h3>
+<h3 align="center">"A passionate coder from Pakistan"</h3>
 <img align="center" alt="Coding" width="550" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
  
@@ -12,7 +12,7 @@
 
  💬 Ask me about: **HTML | CSS | Bootstrap | JavaScript | Dart | Flutter | FireBase | Python | Django Rest Framework | Django Api Creation | Illustrator | Photoshop | Xd **
 
- 📫 How to reach me: **Gmail1: saadkashif770@gmail.com, Gmail2: funterboy495@gmail.com, PhoneNumber: 03353132747**
+ 📫 How to reach me: **Gmail1: saadkashif770@gmail.com, Gmail2: funterboy495@gmail.com**
 
  ⚡ Fun fact: **"I am Currently a Student"**
 
