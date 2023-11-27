@@ -10,9 +10,9 @@
 
  👨‍💻 All of my projects are available at: [https://github.com/code-with-saad](https://github.com/code-with-saad)
 
- 💬 Ask me about: **HTML | CSS | Bootstrap | JavaScript | Dart | Flutter | FireBase | Python | Django Rest Framework | Django Api Creation | Illustrator | Photoshop | Xd **
+ 💬 Ask me about: **HTML | CSS | Bootstrap | JavaScript | React Js | Dart | Flutter | FireBase | Python | Pandas | Django Rest Framework | Flask | MySQL | Illustrator | Photoshop | Figma **
 
- 📫 How to reach me: **Gmail1: saadkashif770@gmail.com, Gmail2: funterboy495@gmail.com**
+ 📫 How to reach me: **Gmail: saadkashif770@gmail.com**
 
  ⚡ Fun fact: **"I am Currently a Student"**
 
