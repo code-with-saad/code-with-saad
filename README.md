@@ -3,7 +3,7 @@
          height="45"
          width="75" />, I'm Muhammad Saad!</h1>
 <h3 align="center">"A passionate coder from Pakistan"</h3>
-<video align="center" width="550" autoplay loop src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> </video>
+<img align="center" width="550" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
  
  🌱 I’m currently learning: **"Server Side Backend Development Using Python"**
