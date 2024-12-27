@@ -6,11 +6,11 @@
 <img align="center" width="550" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
  
- 🌱 I’m currently learning: **"Server Side Backend Development Using Python"**
+ 🌱 I’m currently learning: **"Software Enginnering at Aptech"**
 
  👨‍💻 All of my projects are available at: [https://github.com/code-with-saad](https://github.com/code-with-saad)
 
- 💬 Ask me about: **HTML | CSS | Bootstrap | JavaScript | React Js | Dart | Flutter | FireBase | Python | Pandas | Django Rest Framework | Flask | MySQL | Illustrator | Photoshop | Figma **
+ 💬 Ask me about: **HTML | CSS | Bootstrap | TailwindCSS | JavaScript | Typescript | React Js | NextJs | Dart | Flutter | FireBase | Python | Pandas | Django Rest Framework | Flask | MySQL | Figma **
 
  📫 How to reach me: **Gmail: saadkashif770@gmail.com**
 
