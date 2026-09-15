@@ -1,66 +1,54 @@
-<h1 align="center">Hi There <img src="https://github.com/codewithowais/codewithowais/blob/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="75" />, I'm Muhammad Saad!</h1>
-<h3 align="center">"A passionate coder from Pakistan"</h3>
-<img align="center" width="550" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
 
- 
- 🌱 I’m currently learning: **"Software Enginnering at Aptech"**
+# Muhammad Saad
+### Full Stack Developer — MERN Stack
 
- 👨‍💻 All of my projects are available at: [https://github.com/code-with-saad](https://github.com/code-with-saad)
+Building production-style web apps. Currently shipping **EventSphere**, a multi-role Event & Expo Management SaaS.
 
- 💬 Ask me about: **HTML | CSS | Bootstrap | TailwindCSS | JavaScript | Typescript | React Js | NextJs | Dart | Flutter | FireBase | Python | Pandas | Django Rest Framework | Flask | MySQL | Figma **
+[![Portfolio](https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://saad-devv.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-10b981?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithsaad/)
+[![Gmail](https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadkashif770@gmail.com)
 
- 📫 How to reach me: **Gmail: saadkashif770@gmail.com**
+</div>
 
- ⚡ Fun fact: **"I am Currently a Student"**
+<br>
 
+## About
 
-### Contact
+Advanced Diploma in Software Engineering student at Aptech, Karachi. I build with the MERN stack — React/Vite on the frontend, Node/Express/MongoDB on the backend. I also lead **Nemesis**, an online gaming community of 200+ members.
 
-Reach out to me directly through:
+<br>
 
-<a href="https://wa.me/923353132747/" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+## Featured Project
 
-<a href="https://www.linkedin.com/in/saad-kashif-767052247/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### 🗓️ EventSphere
+Multi-role Event & Expo Management SaaS — handles organizer, exhibitor, and attendee roles in one platform.
 
-<a href="https://www.facebook.com/profile.php?id=100091482305935" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/messages/t/profile.php?id=100091482305935/" target="_blank">
-    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
-</a>
-<a href="mailto:saadkashif770@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+`React` `Node.js` `Express` `MongoDB`
 
+<br>
 
-### Tech Stack
+## Stack
 
-Here's my tech stack I'm currently used to and prefer:
-
-<div>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="36" height="36"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36" style="filter: invert(1);"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="36" height="36"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="36" height="36"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="36" height="36"/>
 </p>
 
+<br>
 
-<div>
+## GitHub Stats
 
-    
-## ❤ Views and Followers
-    
-<a href="https://github.com/code-with-saad/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=code-with-saad">
-</a>
-<a href="https://github.com/code-with-saad?tab=followers"><img src="https://img.shields.io/github/followers/code-with-saad?label=Followers&style=social" alt="GitHub Badge"></a> 
-    
-    
-### Status
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=code-with-saad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=2dd4bf&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-saad&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="165"/>
+</div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-saad&theme=dark&count_private=true&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-saad&layout=compact&theme=dark&langs_count=50" />
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=code-with-saad&color=10b981&style=flat" alt="profile views"/>
+</div>
