@@ -70,12 +70,11 @@
   <a href="https://github.com/code-with-saad/eventsphere">
     <img width="400" src="https://socialify.git.ci/code-with-saad/eventsphere/image?custom_description=Multi-role%20Event%20%26%20Expo%20Management%20SaaS%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="EventSphere" />
   </a>
-  <a href="https://github.com/code-with-saad/pos-system">
-    <img width="400" src="https://socialify.git.ci/code-with-saad/pos-system/image?custom_description=Point%20of%20Sale%20System%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="POS System" />
+  <a href="https://github.com/code-with-saad/pos">
+    <img width="400" src="https://socialify.git.ci/code-with-saad/pos/image?custom_description=Point%20of%20Sale%20System%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="POS System" />
   </a>
 </p>
 
-<p align="center"><i>Replace the repo paths above with your actual EventSphere / POS repo URLs.</i></p>
 
 ---
 
