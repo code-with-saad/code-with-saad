@@ -85,9 +85,7 @@
   <img src="https://github-readme-stats-ten-dun-89.vercel.app/api/top-langs/?username=code-with-saad&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph-five-sandy.vercel.app/graph?username=code-with-saad&bg_color=0d1117&color=10b981&line=10b981&point=2dd4bf&area=true&hide_border=true" alt="Contribution activity graph" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph-five-sandy.vercel.app/graph?username=code-with-saad&bg_color=0d1117&color=10b981&line=10b981&point=2dd4bf&area=true&hide_border=true" alt="Contribution activity graph" /> </p>
 
 ---
 
