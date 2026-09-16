@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <sub><b>BUILD / LEARN / IMPROVE</b></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node.js;Building+EventSphere+%26+POS+Systems;Shipping+real+projects%2C+not+tutorials" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,13 +30,13 @@
 
 <p align="center">
   <a href="https://saad-devv.vercel.app" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-saad--devv.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/codewithsaad/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-codewithsaad-10b981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-10b981?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:saadkashif770@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 - 💻 **Full Stack Developer** — MERN stack: React/Vite, Node.js, Express, MongoDB
 - 🎓 Advanced Diploma in Software Engineering — **Aptech**, Karachi
 - 🚀 Currently building **EventSphere** — a multi-role Event & Expo Management SaaS
-- 🎮 Lead **Nemesis** — an online gaming community, 200+ members
+- 🧾 Also shipped a **MERN-based POS System**
 - 🎯 Focus: clean APIs, scalable full-stack architecture, shipping real projects over tutorials
 
 ---
@@ -64,23 +64,26 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/code-with-saad/eventsphere">
-    <img width="480" src="https://socialify.git.ci/code-with-saad/eventsphere/image?custom_description=Multi-role%20Event%20%26%20Expo%20Management%20SaaS%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="EventSphere" />
+    <img width="400" src="https://socialify.git.ci/code-with-saad/eventsphere/image?custom_description=Multi-role%20Event%20%26%20Expo%20Management%20SaaS%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="EventSphere" />
+  </a>
+  <a href="https://github.com/code-with-saad/pos-system">
+    <img width="400" src="https://socialify.git.ci/code-with-saad/pos-system/image?custom_description=Point%20of%20Sale%20System%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="POS System" />
   </a>
 </p>
 
-<p align="center"><i>Replace the repo path above with your actual EventSphere repo URL once it's public.</i></p>
+<p align="center"><i>Replace the repo paths above with your actual EventSphere / POS repo URLs.</i></p>
 
 ---
 
 ## 🔥 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-hbj5snitj-saad-kashifs-projects.vercel.app/api?username=code-with-saad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=2dd4bf&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats-hbj5snitj-saad-kashifs-projects.vercel.app/api/top-langs/?username=code-with-saad&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats-ten-dun-89.vercel.app/api?username=code-with-saad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=2dd4bf&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats-ten-dun-89.vercel.app/api/top-langs/?username=code-with-saad&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="165"/>
 </p>
 
 <p align="center">
@@ -111,15 +114,15 @@
 
 ## 🧬 Philosophy
 
-> **Build. Learn. Improve.**
+> *Code is a liability the moment it's written — the only thing that justifies it is the problem it actually solves.*
 >
-> *Shipping real projects beats collecting tutorials.*
+> I'd rather ship something small that works end-to-end than half-build something impressive. Every project here is something a real user could open and use, not a tutorial clone.
 
 ---
 
 <p align="center">
   <a href="https://saad-devv.vercel.app">
-    <img src="https://img.shields.io/badge/Explore_my_portfolio_→-saad--devv.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Visit portfolio" />
+    <img src="https://img.shields.io/badge/Explore_my_portfolio_→-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
   </a>
 </p>
 
