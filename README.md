@@ -79,8 +79,8 @@
 ## 🔥 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-saad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=2dd4bf&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-saad&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats-hbj5snitj-saad-kashifs-projects.vercel.app/api?username=code-with-saad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=2dd4bf&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats-hbj5snitj-saad-kashifs-projects.vercel.app/api/top-langs/?username=code-with-saad&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="165"/>
 </p>
 
 <p align="center">
