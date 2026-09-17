@@ -20,6 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: code-with-saad
+          SETTING_JSON: 3d-contrib-settings.json
 
       - name: Commit generated files
         run: |
