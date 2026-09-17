@@ -1,0 +1,24 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # runs daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate streak stats SVG
+        run: python3 scripts/gen_streak_stats.py
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak-stats.svg
+          git commit -m "chore: update streak-stats.svg" || echo "no changes"
+          git push
