@@ -126,14 +126,13 @@
 
 ## 🧬 Philosophy
 
-Execution Over Words.
-
-*"Code is a liability until it solves someone's actual problem."*
-
-> *"Make it work, make it right, make it fast."*
+> **Execution Over Words.**
 >
-> — Kent Beck
+> *"Code is a liability until it solves someone's actual problem."*
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false" alt="Random dev quote" />
+</p>
 ---
 
 <p align="center">
