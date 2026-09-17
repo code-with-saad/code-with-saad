@@ -1,7 +1,7 @@
 <!--
   Muhammad Saad — GitHub Profile README
   Theme: Deep teal/emerald dark tech — Accent #10b981 / #2dd4bf on #0d1117
-  Auto-generated assets: profile-3d-contrib/ (3D graph) + output branch (snake) via GitHub Actions
+  Auto-generated assets: profile-3d-contrib/ (3D graph), github-metrics.svg (analytics), output branch (snake) via GitHub Actions
 -->
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node.js;Building+EventSphere+%26+POS+Systems;Shipping+real+projects%2C+not+tutorials" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node.js;Built+EventSphere+%26+a+POS+System;Shipping+real+projects%2C+not+tutorials" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,13 +30,13 @@
 
 <p align="center">
   <a href="https://saad-devv.vercel.app" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-saad--devv.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="https://www.linkedin.com/in/codewithsaad/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-10b981?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-codewithsaad-10b981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="mailto:saadkashif770@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
@@ -48,18 +48,22 @@
 
 ## ⚡ About Me
 
-- 💻 **Full Stack Developer** — MERN stack: React/Vite, Node.js, Express, MongoDB
+- 💻 Full stack developer working mainly in the **MERN stack** — React, Node.js, Express, MongoDB
 - 🎓 Advanced Diploma in Software Engineering — **Aptech**, Karachi
-- 🚀 Currently building **EventSphere** — a multi-role Event & Expo Management SaaS
-- 🧾 Also shipped a **MERN-based POS System**
-- 🎯 Focus: clean APIs, scalable full-stack architecture, shipping real projects over tutorials
+- 🚀 Built **EventSphere**, a multi-role Event & Expo Management SaaS, and a **MERN-based POS System**
+- 🎯 Prefer shipping something small end-to-end over half-finishing something impressive
+- 📡 Comfortable across the stack — from REST APIs to responsive frontends
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,git,figma,vscode&theme=dark" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,dart&theme=dark" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-10b981?style=flat-square&labelColor=0d1117" />
 </p>
 
 ---
@@ -75,24 +79,22 @@
   </a>
 </p>
 
-
 ---
 
 ## 🔥 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-dun-89.vercel.app/api?username=code-with-saad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=2dd4bf&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats-ten-dun-89.vercel.app/api/top-langs/?username=code-with-saad&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="165"/>
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph-five-sandy.vercel.app/graph?username=code-with-saad&bg_color=0d1117&color=10b981&line=10b981&point=2dd4bf&area=true&hide_border=true" alt="Contribution activity graph" /> </p>
+<sub>Auto-generated daily by <code>.github/workflows/metrics.yml</code></sub>
 
 ---
 
 ## 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+  <img src="./profile-3d-contrib/profile-teal-animate.svg" alt="3D contribution graph" />
 </p>
 
 <sub>Auto-generated nightly by <code>.github/workflows/3d-contrib.yml</code></sub>
@@ -109,17 +111,28 @@
 
 ---
 
+## ⚙️ What I'm Building
+
+- 🗓️ **EventSphere** — a full-stack MERN platform for managing events and expos across organizer, exhibitor, and attendee roles
+- 🧾 **POS System** — a MERN-based point-of-sale app for handling sales, inventory, and receipts
+
+---
+
 ## 🧬 Philosophy
 
-> *Code is a liability the moment it's written — the only thing that justifies it is the problem it actually solves.*
+Execution Over Words.
+
+*"Code is a liability until it solves someone's actual problem."*
+
+> *"Make it work, make it right, make it fast."*
 >
-> I'd rather ship something small that works end-to-end than half-build something impressive. Every project here is something a real user could open and use, not a tutorial clone.
+> — Kent Beck
 
 ---
 
 <p align="center">
   <a href="https://saad-devv.vercel.app">
-    <img src="https://img.shields.io/badge/Explore_my_portfolio_→-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
+    <img src="https://img.shields.io/badge/Explore_my_portfolio_→-saad--devv.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Visit portfolio" />
   </a>
 </p>
 
