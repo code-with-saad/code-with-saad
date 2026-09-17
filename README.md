@@ -33,10 +33,10 @@
     <img src="https://img.shields.io/badge/Portfolio-saad--devv.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A1A" />
   </a>
   <a href="https://www.linkedin.com/in/codewithsaad/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-codewithsaad-10b981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-codewithsaad-10b981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" />
   </a>
   <a href="mailto:saadkashif770@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" />
   </a>
 </p>
 
