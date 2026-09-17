@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a href="https://saad-devv.vercel.app" title="Portfolio" >
+  <a href="https://saad-devv.vercel.app" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-saad--devv.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A1A" />
   </a>
   <a href="https://www.linkedin.com/in/codewithsaad/" title="LinkedIn">
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-with-saad&color=10b981&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=code-with-saad&color=1A1A1A&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
@@ -88,6 +88,12 @@
 </p>
 
 <sub>Auto-generated daily by <code>.github/workflows/metrics.yml</code></sub>
+
+<p align="center">
+  <img src="./streak-stats.svg" alt="GitHub streak stats" height="160" />
+</p>
+
+<sub>Auto-generated daily by <code>.github/workflows/streak-stats.yml</code></sub>
 
 ---
 
