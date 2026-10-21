@@ -1,65 +1,74 @@
 <!--
-  Muhammad Saad - GitHub Profile README
-  Theme: matches LinkedIn banner. Background #030A10 to #07161A, accent #00E8B8, secondary #08C8A0, text #FFFFFF
-  Assets in ./assets: banner.png (same file as LinkedIn banner), dp.png (circular profile photo)
-  Auto-generated: github-metrics.svg, streak-stats.svg, profile-3d-contrib/, snake (output branch)
+  Muhammad Saad — GitHub Profile README
+  Theme: Deep teal/emerald dark tech — Accent #10b981 / #2dd4bf on #0d1117
+  Auto-generated assets: profile-3d-contrib/ (3D graph), github-metrics.svg (analytics), output branch (snake) via GitHub Actions
 -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Muhammad Saad, Full Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:10b981,100:0d1117&text=Muhammad%20Saad&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20%C3%97%20MERN%20Stack&descAlignY=55&descSize=18&animation=fadeIn" alt="Muhammad Saad header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00E8B8&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node.js;Built+EventSphere+and+a+POS+System;Shipping+real+projects%2C+not+tutorials" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node.js;Built+EventSphere+%26+a+POS+System;Shipping+real+projects%2C+not+tutorials" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="./assets/dp.png" alt="Muhammad Saad" width="140" height="140" />
+  <img src="https://avatars.githubusercontent.com/code-with-saad"
+       alt="Muhammad Saad"
+       width="140"
+       height="140"
+       style="border-radius: 50%; border: 2px solid #10b981; box-shadow: 0 0 22px rgba(16, 185, 129, 0.5);"/>
 </p>
 
 <p align="center">
-  <a href="https://saad-devv.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-saad--devv.vercel.app-00E8B8?style=for-the-badge&logo=vercel&logoColor=071619&labelColor=071619" alt="Portfolio" />
+  <em>Building production-style web apps with the MERN stack.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:0d1117&height=2&section=header" alt="divider"/>
+</p>
+
+<p align="center">
+  <a href="https://saad-devv.vercel.app" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-saad--devv.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A1A" />
   </a>
-  <a href="https://www.linkedin.com/in/codewithsaad/">
-    <img src="https://img.shields.io/badge/LinkedIn-codewithsaad-00E8B8?style=for-the-badge&logo=linkedin&logoColor=071619&labelColor=071619" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/codewithsaad/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-codewithsaad-10b981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" />
   </a>
-  <a href="mailto:saadkashif770@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00E8B8?style=for-the-badge&logo=gmail&logoColor=071619&labelColor=071619" alt="Email" />
+  <a href="mailto:saadkashif770@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-with-saad&color=00E8B8&labelColor=071619&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=code-with-saad&color=1A1A1A&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
 
-## About
+## ⚡ About Me
 
-- Full stack developer working mainly in the **MERN stack**: React, Node.js, Express, MongoDB
-- Advanced Diploma in Software Engineering at **Aptech**, Karachi
-- Built **EventSphere**, a multi-role Event & Expo Management SaaS, and a **MERN-based POS System**
-- I prefer shipping something small end to end over half-finishing something impressive
-- Comfortable across the stack, from REST APIs to responsive frontends
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git&theme=dark" alt="Tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_API-00E8B8?style=flat-square&labelColor=071619&logoColor=00E8B8" alt="REST API" />
-  <img src="https://img.shields.io/badge/Postman-00E8B8?style=flat-square&logo=postman&logoColor=00E8B8&labelColor=071619" alt="Postman" />
-  <img src="https://img.shields.io/badge/GitHub-00E8B8?style=flat-square&logo=github&logoColor=00E8B8&labelColor=071619" alt="GitHub" />
-</p>
+- 💻 Full stack developer working mainly in the **MERN stack** — React, Node.js, Express, MongoDB
+- 🎓 Advanced Diploma in Software Engineering — **Aptech**, Karachi
+- 🚀 Built **EventSphere**, a multi-role Event & Expo Management SaaS, and a **MERN-based POS System**
+- 🎯 Prefer shipping something small end-to-end over half-finishing something impressive
+- 📡 Comfortable across the stack — from REST APIs to responsive frontends
 
 ---
 
-## Featured Projects
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,dart&theme=dark" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-10b981?style=flat-square&labelColor=0d1117" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/code-with-saad/eventsphere">
@@ -72,53 +81,67 @@
 
 ---
 
-## What I'm Building
-
-- **EventSphere**: a full-stack MERN platform for managing events and expos across organizer, exhibitor, and attendee roles
-- **POS System**: a MERN-based point-of-sale app for handling sales, inventory, and receipts
-
----
-
-## GitHub Analytics
+## 🔥 GitHub Analytics
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
+<sub>Auto-generated daily by <code>.github/workflows/metrics.yml</code></sub>
+
 <p align="center">
   <img src="./streak-stats.svg" alt="GitHub streak stats" height="160" />
 </p>
 
-<sub>Metrics and streak stats are generated daily at midnight UTC by <code>.github/workflows/metrics.yml</code> and <code>.github/workflows/streak-stats.yml</code>.</sub>
+<sub>Auto-generated daily by <code>.github/workflows/streak-stats.yml</code></sub>
 
 ---
 
-## 3D Contribution Graph
+## 🧊 3D Contribution Graph
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-teal-animate.svg" alt="3D contribution graph" />
 </p>
 
+<sub>Auto-generated nightly by <code>.github/workflows/3d-contrib.yml</code></sub>
+
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/code-with-saad/code-with-saad/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
+<sub>Auto-generated on push by <code>.github/workflows/snake.yml</code></sub>
+
 ---
 
-## Philosophy
+## ⚙️ What I'm Building
 
-> **Execution over words.**
+- 🗓️ **EventSphere** — a full-stack MERN platform for managing events and expos across organizer, exhibitor, and attendee roles
+- 🧾 **POS System** — a MERN-based point-of-sale app for handling sales, inventory, and receipts
+
+---
+
+## 🧬 Philosophy
+
+> **Execution Over Words.**
 >
-> Code is a liability until it solves someone's actual problem.
+> *"Code is a liability until it solves someone's actual problem."*
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false" alt="Random dev quote" />
+</p>
 
 ---
 
 <p align="center">
   <a href="https://saad-devv.vercel.app">
-    <img src="https://img.shields.io/badge/View_my_portfolio-saad--devv.vercel.app-00E8B8?style=for-the-badge&logo=vercel&logoColor=071619&labelColor=071619" alt="Visit portfolio" />
+    <img src="https://img.shields.io/badge/Explore_my_portfolio_→-saad--devv.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Visit portfolio" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10b981,100:0d1117&section=footer" />
 </p>
