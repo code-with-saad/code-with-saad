@@ -113,6 +113,20 @@
   <a href="https://github.com/code-with-saad/pos">
     <img width="400" src="https://socialify.git.ci/code-with-saad/pos/image?custom_description=Point%20of%20Sale%20System%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="POS System" />
   </a>
+  <a href="https://github.com/code-with-saad/CodeAlpha_Huddle">
+    <img width="400" src="https://socialify.git.ci/code-with-saad/CodeAlpha_Huddle/image?custom_description=Huddle%20Project%20Management%20Tool%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Project Management Tool" />
+  </a>
+  <a href="https://github.com/code-with-saad/FBA_Omniverse">
+    <img width="400" src="https://socialify.git.ci/code-with-saad/FBA_Omniverse/image?custom_description=MarketLink%20TechWiz7%20Farmer%20Platform%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="MarketLink Connecting Farmers and Customers" />
+  </a>
+    <a href="https://github.com/code-with-saad/CodeAlpha_Nexoria">
+    <img width="400" src="https://socialify.git.ci/code-with-saad/CodeAlpha_Nexoria/image?custom_description=Nexoria%20Ecommerce%20Store%20Web-Application%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="E-commerce Web Application" />
+  </a>
+  </a>
+    <a href="https://github.com/code-with-saad/CodeAlpha_Circl">
+    <img width="400" src="https://socialify.git.ci/code-with-saad/CodeAlpha_Circl/image?custom_description=Circle%20Social%20Media%20Platform%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Social Media Platform" />
+  </a>
+
 </p>
 
 ---
