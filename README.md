@@ -5,11 +5,11 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:10B981,40:083328,100:030E0B&text=Muhammad%20Saad&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Software%20Engineer%20%C3%97%20Full%20Stack%20Architect&descAlignY=55&descSize=18&animation=fadeIn" alt="Muhammad Saad header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0EA5E9,40:0A2B36,100:020B0F&text=Muhammad%20Saad&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Software%20Engineer%20%C3%97%20Full%20Stack%20Architect&descAlignY=55&descSize=18&animation=fadeIn" alt="Muhammad Saad header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node.js;Building+Palettero%3A+An+AI-driven+developer+utility;For+UI+theme+generation+and+contrast+testing;Shipping+real+products%2C+not+tutorials" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node.js;Building+Palettero%3A+An+AI-driven+developer+utility;For+UI+theme+generation+and+contrast+testing;Shipping+real+products%2C+not+tutorials" alt="Typing SVG" />
 </p>
 
 <p align="center">
