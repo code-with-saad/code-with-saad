@@ -132,9 +132,14 @@
 
 ## 🔥 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=code-with-saad&hide_border=false&include_all_commits=true&count_private=true&bg_color=041216&border_color=032E2A&title_color=04E0B3&icon_color=04E0B3&text_color=D5E3E1)<br/>
-![](https://streak-stats.demolab.com/?user=code-with-saad&hide_border=false&background=041216&border=032E2A&stroke=032E2A&ring=04E0B3&fire=04E0B3&currStreakNum=D5E3E1&sideNums=D5E3E1&currStreakLabel=04E0B3&sideLabels=1FF0C8&dates=7E9A9A)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=code-with-saad&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=041216&border_color=032E2A&title_color=04E0B3&text_color=D5E3E1)
+<p align="center">
+  <img align="top" src="https://github-readme-stats.shion.dev/api?username=code-with-saad&hide_border=false&include_all_commits=true&count_private=true&bg_color=041216&border_color=032E2A&title_color=04E0B3&icon_color=04E0B3&text_color=D5E3E1" alt="GitHub stats" />
+  <img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=code-with-saad&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=041216&border_color=032E2A&title_color=04E0B3&text_color=D5E3E1" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=code-with-saad&hide_border=false&background=041216&border=032E2A&stroke=032E2A&ring=04E0B3&fire=04E0B3&currStreakNum=D5E3E1&sideNums=D5E3E1&currStreakLabel=04E0B3&sideLabels=1FF0C8&dates=7E9A9A" alt="GitHub streak" />
+</p>
 
 ---
 
