@@ -1,15 +1,17 @@
 <!--
   Muhammad Saad — GitHub Profile README
-  Theme: Deep teal/emerald dark tech — Accent #10b981 / #2dd4bf on #0d1117
+  Palette taken from the LinkedIn banner (mint on near-black):
+    Backdrop #020F12 / #041216   Glow #032E2A   Surface #061518
+    Accent #04E0B3   Accent bright #1FF0C8   Text #D5E3E1
   Auto-generated assets: profile-3d-contrib/ (3D graph), github-metrics.svg (analytics), output branch (snake) via GitHub Actions
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:164E63,40:0E2A38,100:0B132B&text=Muhammad%20Saad&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Software%20Engineer%20%C3%97%20Full%20Stack%20Architect&descAlignY=55&descSize=18&animation=fadeIn" alt="Muhammad Saad header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:04E0B3,50:032E2A,100:020F12&text=Muhammad%20Saad&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Software%20Engineer%20%C3%97%20Full%20Stack%20Architect&descAlignY=55&descSize=18&animation=fadeIn" alt="Muhammad Saad header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node.js;Building+Palettero%3A+An+AI-driven+developer+utility;For+UI+theme+generation+and+contrast+testing;Shipping+real+products%2C+not+tutorials" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=04E0B3&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node.js;Building+Palettero%3A+An+AI-driven+developer+utility;For+UI+theme+generation+and+contrast+testing;Shipping+real+products%2C+not+tutorials" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +19,7 @@
        alt="Muhammad Saad"
        width="140"
        height="140"
-       style="border-radius: 50%; border: 2px solid #10b981; box-shadow: 0 0 22px rgba(16, 185, 129, 0.5);"/>
+       style="border-radius: 50%; border: 2px solid #04e0b3; box-shadow: 0 0 22px rgba(4, 224, 179, 0.5);"/>
 </p>
 
 <p align="center">
@@ -25,23 +27,23 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:0d1117&height=2&section=header" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:04E0B3,100:041216&height=2&section=header" alt="divider"/>
 </p>
 
 <p align="center">
   <a href="https://saad-devv.vercel.app" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-saad--devv.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A1A" />
+    <img src="https://img.shields.io/badge/Portfolio-saad--devv.vercel.app-04e0b3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=061518" />
   </a>
   <a href="https://www.linkedin.com/in/codewithsaad/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-codewithsaad-10b981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" />
+    <img src="https://img.shields.io/badge/LinkedIn-codewithsaad-04e0b3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=061518" />
   </a>
   <a href="mailto:saadkashif770@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-Contact-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" />
+    <img src="https://img.shields.io/badge/Email-Contact-04e0b3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=061518" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-with-saad&color=1A1A1A&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=code-with-saad&color=032e2a&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
@@ -57,7 +59,7 @@
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61552197022094) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_official.saad_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/codewithsaad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saadkashif770@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-061518?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552197022094) [![Instagram](https://img.shields.io/badge/Instagram-061518?logo=instagram&logoColor=white)](https://www.instagram.com/_official.saad_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-061518?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithsaad) [![email](https://img.shields.io/badge/Email-061518?logo=gmail&logoColor=white)](mailto:saadkashif770@gmail.com)
 
 ---
 
@@ -118,23 +120,21 @@
   <a href="https://github.com/code-with-saad/FBA_Omniverse">
     <img width="400" src="https://socialify.git.ci/code-with-saad/FBA_Omniverse/image?custom_description=MarketLink%20TechWiz7%20Farmer%20Platform%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="MarketLink Connecting Farmers and Customers" />
   </a>
-    <a href="https://github.com/code-with-saad/CodeAlpha_Nexoria">
+  <a href="https://github.com/code-with-saad/CodeAlpha_Nexoria">
     <img width="400" src="https://socialify.git.ci/code-with-saad/CodeAlpha_Nexoria/image?custom_description=Nexoria%20Ecommerce%20Store%20Web-Application%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="E-commerce Web Application" />
   </a>
-  </a>
-    <a href="https://github.com/code-with-saad/CodeAlpha_Circl">
+  <a href="https://github.com/code-with-saad/CodeAlpha_Circl">
     <img width="400" src="https://socialify.git.ci/code-with-saad/CodeAlpha_Circl/image?custom_description=Circle%20Social%20Media%20Platform%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Social Media Platform" />
   </a>
-
 </p>
 
 ---
 
 ## 🔥 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=code-with-saad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=code-with-saad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=code-with-saad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=code-with-saad&hide_border=false&include_all_commits=true&count_private=true&bg_color=041216&border_color=032E2A&title_color=04E0B3&icon_color=04E0B3&text_color=D5E3E1)<br/>
+![](https://streak-stats.demolab.com/?user=code-with-saad&hide_border=false&background=041216&border=032E2A&stroke=032E2A&ring=04E0B3&fire=04E0B3&currStreakNum=D5E3E1&sideNums=D5E3E1&currStreakLabel=04E0B3&sideLabels=1FF0C8&dates=7E9A9A)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=code-with-saad&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=041216&border_color=032E2A&title_color=04E0B3&text_color=D5E3E1)
 
 ---
 
@@ -179,10 +179,10 @@
 
 <p align="center">
   <a href="https://saad-devv.vercel.app">
-    <img src="https://img.shields.io/badge/Explore_my_portfolio_→-saad--devv.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Visit portfolio" />
+    <img src="https://img.shields.io/badge/Explore_my_portfolio_→-saad--devv.vercel.app-04e0b3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=041216" alt="Visit portfolio" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10b981,100:0d1117&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:04E0B3,50:032E2A,100:020F12&section=footer" />
 </p>
