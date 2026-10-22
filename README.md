@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:15bc8b,50:030f13,100:051a1b&text=Muhammad%20Saad&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20%C3%97%20MERN%20Stack&descAlignY=55&descSize=18&animation=fadeIn" alt="Muhammad Saad header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:10B981,40:083328,100:030E0B&text=Muhammad%20Saad&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Software%20Engineer%20%C3%97%20Full%20Stack%20Architect&descAlignY=55&descSize=18&animation=fadeIn" alt="Muhammad Saad header" />
 </p>
 
 <p align="center">
