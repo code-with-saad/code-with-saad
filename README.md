@@ -32,13 +32,13 @@
 
 <p align="center">
   <a href="https://saad-devv.vercel.app" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-saad--devv.vercel.app-04e0b3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=061518" />
+    <img src="https://img.shields.io/badge/Portfolio-saad--devv.vercel.app-05614e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=061518" />
   </a>
   <a href="https://www.linkedin.com/in/codewithsaad/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-codewithsaad-04e0b3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=061518" />
+    <img src="https://img.shields.io/badge/LinkedIn-codewithsaad-05614e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=061518" />
   </a>
   <a href="mailto:saadkashif770@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-Contact-04e0b3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=061518" />
+    <img src="https://img.shields.io/badge/Email-Contact-05614e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=061518" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 ## ⚡ About Me
 
-- 💻 Full stack developer working mainly in the **MERN stack** | React, Node.js, Express, MongoDB, Next
+- 💻 Full stack developer working mainly in the **MERN stack** | Next, Python, PostgreSQL
 - 🎓 Advanced Diploma in Software Engineering | **Aptech**, Karachi
 - 🚀 Currently working on Palettero - an AI-based color utility tool (Next.js, Tailwind CSS, Supabase)
 - 🎯 Prefer shipping something small end-to-end over half-finishing something impressive
@@ -97,7 +97,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white&color=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -184,7 +184,7 @@
 
 <p align="center">
   <a href="https://saad-devv.vercel.app">
-    <img src="https://img.shields.io/badge/Explore_my_portfolio_→-saad--devv.vercel.app-04e0b3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=041216" alt="Visit portfolio" />
+    <img src="https://img.shields.io/badge/Explore_my_portfolio_%E2%86%92-saad--devv.vercel.app-05614e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=041216" alt="Visit portfolio" />
   </a>
 </p>
 
